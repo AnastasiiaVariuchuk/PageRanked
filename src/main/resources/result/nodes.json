@@ -1,0 +1,63 @@
+{
+  "allNodes" : [ {
+    "id" : 1,
+    "quantityIn" : 0,
+    "quantityOut" : 2,
+    "name" : "Books.html",
+    "pageRank" : 0.15000000000000002
+  }, {
+    "id" : 2,
+    "quantityIn" : 2,
+    "quantityOut" : 2,
+    "name" : "Cars.html",
+    "pageRank" : 0.15000000000000002
+  }, {
+    "id" : 3,
+    "quantityIn" : 2,
+    "quantityOut" : 1,
+    "name" : "Clothes.html",
+    "pageRank" : 0.21375000000000002
+  }, {
+    "id" : 4,
+    "quantityIn" : 1,
+    "quantityOut" : 2,
+    "name" : "Coffee.html",
+    "pageRank" : 0.2279166666666667
+  }, {
+    "id" : 5,
+    "quantityIn" : 4,
+    "quantityOut" : 2,
+    "name" : "Galaxy.html",
+    "pageRank" : 0.19250000000000003
+  }, {
+    "id" : 6,
+    "quantityIn" : 4,
+    "quantityOut" : 0,
+    "name" : "Laptops.html",
+    "pageRank" : 0.41208333333333336
+  }, {
+    "id" : 7,
+    "quantityIn" : 1,
+    "quantityOut" : 1,
+    "name" : "Pets.html",
+    "pageRank" : 0.15000000000000002
+  }, {
+    "id" : 8,
+    "quantityIn" : 0,
+    "quantityOut" : 2,
+    "name" : "Planes.html",
+    "pageRank" : 0.15000000000000002
+  }, {
+    "id" : 9,
+    "quantityIn" : 3,
+    "quantityOut" : 2,
+    "name" : "Science.html",
+    "pageRank" : 0.25625000000000003
+  }, {
+    "id" : 10,
+    "quantityIn" : 0,
+    "quantityOut" : 3,
+    "name" : "Toys.html",
+    "pageRank" : 0.15000000000000002
+  } ]
+}
